@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/makemattlisten2/'
+  publicPath: '/project name/'
 }
