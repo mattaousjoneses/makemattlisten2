@@ -1,5 +1,5 @@
 <template>
-  <div class="container">    
+  <div class="container" >    
     <CurrentlyPlaying :currentTrack="currentTrack"/>
   </div>
   <br>
@@ -330,12 +330,15 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  max-width: 1000px;
+    margin: 0 auto;
+    /*margin-top: 60px;*/
 
 }
 body{
     background-color: rgb(55, 62, 70);
 
 }
+
 
 </style>
