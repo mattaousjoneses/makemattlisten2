@@ -13,7 +13,7 @@
         <input id="songIDToQueue" type="text">
         <Button text="Add Song" color="rgb(51, 207, 90)"/>
     </div>
-  
+
 </template>
 
 <script>
